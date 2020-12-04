@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SaltIm</string>
+    <string name="reconnecting">正在尝试重连...</string>
+</resources>
